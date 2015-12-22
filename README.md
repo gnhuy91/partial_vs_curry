@@ -66,8 +66,8 @@ as well as:
 In other words, `currying` and `partial application` are two totally different things.
 
 
-#### References:
+## References:
 - https://medium.com/javascript-scene/curry-or-partial-application-8150044c78b8
 - http://stackoverflow.com/a/23438430/4328963
 
-#### Thanks for reading!
+## Thanks for reading!
